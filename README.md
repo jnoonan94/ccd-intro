@@ -14,11 +14,7 @@ The tutorials are adapted from the official [Astropy CCD Reduction and Photometr
 
 | Notebook | Topic |
 |---------|-------|
-| 01 | Understanding a CCD Image |
-| 02 | Subtracting Bias Frames |
-| 03 | Subtracting Dark Frames |
-| 04 | Flat-Field Correction |
-| 05 | Building a Calibration Pipeline |
+| 01 | Basic CCD Reduction 
 
 ## 🚀 Getting Started
 
