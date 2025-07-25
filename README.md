@@ -15,6 +15,9 @@ The tutorials are adapted from the official [Astropy CCD Reduction and Photometr
 | Notebook | Topic |
 |---------|-------|
 | 01 | Basic CCD Reduction 
+| 02 | Add WCS to Image Tutorial
+| 03 | WCS from Catalog Tutorial
+| 04 | Shift and Stack Tutorial
 
 ## 🚀 Getting Started
 
